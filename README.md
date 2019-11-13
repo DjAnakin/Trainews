@@ -1,0 +1,2 @@
+# Trainews
+Blog em Java.
